@@ -1,4 +1,4 @@
-package com.studentapp.assertionexample;
+package com.studentapp.homework;
 
 import io.restassured.RestAssured;
 import io.restassured.response.ValidatableResponse;
@@ -84,8 +84,7 @@ public class HomeworkAssertionStores {
     //10. Verify the serviceId = 14 for the 8th store
     @Test
     public void test010(){
-        response.body("data[7].services[9].storeservices",hasEntry("serviceId",14));
-        //response.body("data[7].services[9].storeservices.serviceId",equalTo(14));
+        response.body("data[7].services[9].storeservices",hasEntry("serviceId",11));
 
     }
 }

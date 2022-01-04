@@ -1,4 +1,4 @@
-package com.studentapp.extractingresponsedata;
+package com.studentapp.homework;
 
 import io.restassured.RestAssured;
 import io.restassured.response.ValidatableResponse;

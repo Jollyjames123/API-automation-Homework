@@ -66,7 +66,6 @@ public class SearchJsonPathExample {
     // 4) Get the categories list of the first data
     @Test
     public void test004() {
-
         //HOMEWORK
 
         List<HashMap<String, String>> categoryList = response.extract().path("data[0].categories");

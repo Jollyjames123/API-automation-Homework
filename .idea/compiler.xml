@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="API-automation-practice-Homework" />
         <module name="student-app-restassured" />
+        <module name="API-automation-Homework" />
+        <module name="wk18_API_HomeworkCP" />
       </profile>
     </annotationProcessing>
   </component>

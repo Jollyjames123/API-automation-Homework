@@ -5,30 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e7a78f2-0319-499f-8b45-29d38396620c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/assertionexample/AssertionExampleProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/assertionexample/HomeworkAssertionStores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/studentapp/model/StorePojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/storesinfo/StoreDeleteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/storesinfo/StoresGetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/storesinfo/StoresPostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/storesinfo/StoresPutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/testbase/TestBase1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/studentapp/model/StudentPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/studentapp/model/StudentPojo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/assertionexample/AssertionExampleDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/assertionexample/SoftAssertExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/checkresponsetime/VerifyingResponseTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/assertionexample/HomeworkAssertionStores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/homework/HomeworkAssertionStores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/extractingresponsedata/HomeworkExtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/homework/HomeworkExtraction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/extractingresponsedata/SearchJsonPathExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/extractingresponsedata/SearchJsonPathExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/jsonassert/JsonAssertExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/loggingrequestresponse/LoggingRequestDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/loggingrequestresponse/LoggingResponseDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/myfirsttest/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/myfirsttest/MyFirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/specificationexample/RequestSpecificationExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/specificationexample/ResponseSpecificationExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/studentinfo/StudentDeleteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/studentinfo/StudentDeleteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/studentinfo/StudentGetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/studentinfo/StudentGetTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/studentinfo/StudentPatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/studentinfo/StudentPatchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/studentinfo/StudentPostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/studentinfo/StudentPostTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/studentinfo/StudentPutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/studentinfo/StudentPutTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/testbase/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/studentapp/testbase/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/studentapp/myfirsttest/MyFirstTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,94 +50,93 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.HomeworkExtraction.test019">
-    <configuration name="HomeworkAssertionStores.test006 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API-automation-practice-Homework" />
+  <component name="RunManager" selected="JUnit.HomeworkAssertionStores.test010">
+    <configuration name="HomeworkAssertionStores.test001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wk18_API_HomeworkCP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.studentapp.assertionexample.*" />
+          <option name="PATTERN" value="com.studentapp.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.studentapp.assertionexample" />
-      <option name="MAIN_CLASS_NAME" value="com.studentapp.assertionexample.HomeworkAssertionStores" />
-      <option name="METHOD_NAME" value="test006" />
+      <option name="PACKAGE_NAME" value="com.studentapp.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.studentapp.homework.HomeworkAssertionStores" />
+      <option name="METHOD_NAME" value="test001" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeworkExtraction.test010" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API-automation-practice-Homework" />
+    <configuration name="HomeworkAssertionStores.test002" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wk18_API_HomeworkCP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.studentapp.extractingresponsedata.*" />
+          <option name="PATTERN" value="com.studentapp.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.studentapp.extractingresponsedata" />
-      <option name="MAIN_CLASS_NAME" value="com.studentapp.extractingresponsedata.HomeworkExtraction" />
+      <option name="PACKAGE_NAME" value="com.studentapp.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.studentapp.homework.HomeworkAssertionStores" />
+      <option name="METHOD_NAME" value="test002" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkAssertionStores.test010" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wk18_API_HomeworkCP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.studentapp.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.studentapp.homework" />
+      <option name="MAIN_CLASS_NAME" value="com.studentapp.homework.HomeworkAssertionStores" />
       <option name="METHOD_NAME" value="test010" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeworkExtraction.test014" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API-automation-practice-Homework" />
+    <configuration name="StoreDeleteTest.test001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wk18_API_HomeworkCP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.studentapp.extractingresponsedata.*" />
+          <option name="PATTERN" value="com.studentapp.storesinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.studentapp.extractingresponsedata" />
-      <option name="MAIN_CLASS_NAME" value="com.studentapp.extractingresponsedata.HomeworkExtraction" />
-      <option name="METHOD_NAME" value="test014" />
+      <option name="PACKAGE_NAME" value="com.studentapp.storesinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.studentapp.storesinfo.StoreDeleteTest" />
+      <option name="METHOD_NAME" value="test001" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeworkExtraction.test015" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API-automation-practice-Homework" />
+    <configuration name="StoresPostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wk18_API_HomeworkCP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.studentapp.extractingresponsedata.*" />
+          <option name="PATTERN" value="com.studentapp.storesinfo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.studentapp.extractingresponsedata" />
-      <option name="MAIN_CLASS_NAME" value="com.studentapp.extractingresponsedata.HomeworkExtraction" />
-      <option name="METHOD_NAME" value="test015" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeworkExtraction.test019" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="API-automation-practice-Homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.studentapp.extractingresponsedata.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.studentapp.extractingresponsedata" />
-      <option name="MAIN_CLASS_NAME" value="com.studentapp.extractingresponsedata.HomeworkExtraction" />
-      <option name="METHOD_NAME" value="test019" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.studentapp.storesinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.studentapp.storesinfo.StoresPostTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HomeworkExtraction.test019" />
-        <item itemvalue="JUnit.HomeworkExtraction.test015" />
-        <item itemvalue="JUnit.HomeworkExtraction.test014" />
-        <item itemvalue="JUnit.HomeworkExtraction.test010" />
-        <item itemvalue="JUnit.HomeworkAssertionStores.test006 (1)" />
+        <item itemvalue="JUnit.HomeworkAssertionStores.test010" />
+        <item itemvalue="JUnit.StoresPostTest" />
+        <item itemvalue="JUnit.HomeworkAssertionStores.test001" />
+        <item itemvalue="JUnit.StoreDeleteTest.test001" />
+        <item itemvalue="JUnit.HomeworkAssertionStores.test002" />
       </list>
     </recent_temporary>
   </component>
